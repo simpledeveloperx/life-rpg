@@ -10,7 +10,7 @@
 
 Real Life RPG is a browser-based habit tracker disguised as an RPG. You log real physical and mental activities — pushups, running, reading — and they translate directly into character stats that affect combat power, boss fights, and progression.
 
-No logins. No servers. No subscriptions. Just open `index.html` and start grinding.
+No logins. No servers. No subscriptions. Just open https://simpledeveloperx.github.io/life-rpg/ and start grinding.
 
 ---
 
@@ -63,23 +63,8 @@ From "First Blood" (one pushup) to "Shadow Conqueror" (defeat the final boss) to
 ## 🚀 Getting Started
 
 ### Play Instantly
-Just open `index.html` in any modern browser. No build step, no dependencies, no internet required after the font loads.
+Just open https://simpledeveloperx.github.io/life-rpg/ in any modern browser. No build step, no dependencies, no internet required after the font loads.
 
-```
-RealLifeRPG/
-├── index.html   ← open this
-├── style.css
-├── script.js
-└── README.md
-```
-
-### Host on GitHub Pages
-1. Fork or upload this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to **main branch / root**
-4. Your game is live at `https://yourusername.github.io/your-repo-name`
-
----
 
 ## ⚔️ Combat System
 
